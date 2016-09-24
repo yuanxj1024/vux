@@ -207,4 +207,3 @@ export default {
 <style>
 @import './scroller.css';
 </style>
-
